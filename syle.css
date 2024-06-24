@@ -1,0 +1,64 @@
+.projeto{
+    display: flex;
+    justify-content:first baseline;
+font-family: cursive;
+padding-left: 570px;
+
+}
+img{
+    width: 200px;
+    height: 200px;
+    height: 200px;
+    border-radius: 5%;
+    border: 2px solid rgb(25, 24, 26);
+}
+h1{
+    padding-left: 45px;
+    color: aliceblue;
+    font-family: serif;
+    font-size: 40px;
+}
+body{
+    background-color: rgb(201, 197, 197);
+    border: 2px solid rgb(19, 19, 20);
+}
+.for{
+    text-align: center;
+
+}
+h2{
+    font-size: 50px;
+    font-family: fantasy;
+}
+#titulo{
+     font-family:cursive ;
+}
+p{
+    font-size: 30px;
+    color: azure;
+}
+
+h2:hover{
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+h1:hover{
+    color: aqua;
+    
+}
+li{
+font-size: 40px;
+color: rgb(252, 250, 249);
+}
+h2{
+    color: brown;
+}
+.rede{
+    text-align: center;
+    
+}
+.rede:hover{
+    background-color: rgb(38, 37, 39);
+
+}
+
